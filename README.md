@@ -1,0 +1,1 @@
+Exercises from https://www.pluralsight.com/courses/practical-python-beginners
